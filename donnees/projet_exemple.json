@@ -1,0 +1,23 @@
+{
+    "nom": "Petit bâtiment — exemple pédagogique",
+    "surface_dalle_m2": 100.0,
+    "epaisseur_dalle_m": 0.15,
+    "poids_volumique_beton_kn_m3": 25.0,
+    "charges_permanentes_kn_m2": 1.5,
+    "charges_exploitation_kn_m2": 2.0,
+    "nombre_niveaux": 2,
+    "surface_influence_angle_m2": 6.0,
+    "surface_influence_rive_m2": 12.0,
+    "surface_influence_central_m2": 20.0,
+    "contrainte_admissible_beton_kn_m2": 10000.0,
+    "contrainte_admissible_sol_kpa": 200.0,
+    "cout_beton_m3_fcfa": 85000.0,
+    "cout_acier_kg_fcfa": 900.0,
+    "cout_coffrage_m2_fcfa": 6500.0,
+    "taux_imprevus": 0.05,
+    "poteaux": [
+        {"type": "Angle", "surface_influence_m2": 6.0},
+        {"type": "Rive", "surface_influence_m2": 12.0},
+        {"type": "Central", "surface_influence_m2": 20.0}
+    ]
+}

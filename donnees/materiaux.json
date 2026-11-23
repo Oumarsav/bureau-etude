@@ -1,0 +1,5 @@
+{
+    "beton": {"poids_volumique_kn_m3": 25.0, "prix_unitaire_fcfa_m3": 85000.0},
+    "acier": {"prix_unitaire_fcfa_kg": 900.0, "quantite": "à déterminer par étude de ferraillage"},
+    "coffrage": {"prix_unitaire_fcfa_m2": 6500.0}
+}
